@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+        Montserrat:["Montserrat"],
+        VarelaRound:["Varela Round"],  
+
+      },
+    
     },
   },
   plugins: [],
